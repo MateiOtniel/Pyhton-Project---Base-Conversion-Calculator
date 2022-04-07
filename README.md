@@ -6,6 +6,7 @@ This is a project which have the following features:
 - sum of 2 numbers in a specified base
 - difference of 2 numbers in a specified base
 - multiplication of 2 numbers in a specified base
-- diision of 2 numbers in a specified base
+- division of 2 numbers in a specified base
+
 The program validates every input and throws errors if necessary.
 The program is tested.
